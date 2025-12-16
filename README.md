@@ -1,5 +1,3 @@
-<img width="4271" height="1281" alt="Computer Science   Engineering Student(1)" src="https://github.com/user-attachments/assets/793656d5-117c-417b-af1f-09edbe675d31" />
-
 ### Hi there 👋 I'm Laura Adell Caballero (Darkus-18)
 
 <!--
