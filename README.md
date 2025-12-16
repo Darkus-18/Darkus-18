@@ -1,6 +1,13 @@
-### Hi there 👋 I'm Laura Adell Caballero (Darkus-18)
+# Hi there 👋 I'm Laura Adell Caballero (Darkus-18)
+---
+
+Read this in other languages: [English](README.md), [Español](README_es.md), [Catalan](README_ca.md).
+
+## 💬 About me
+---
 
 <!--
+https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/STEPS.md
 **Darkus-18/Darkus-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
