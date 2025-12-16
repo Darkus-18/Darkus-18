@@ -4,7 +4,7 @@
 
 # Hi there 👋 I'm Laura Adell Caballero (Darkus-18)
 
-💬 Read this in other languages: [English](README.md), [Español](READMEs/README_es.md), [Català](READMEs/README_ca.md).
+💬 Read this document in other languages: [English](README.md), [Español](READMEs/README_es.md), [Català](READMEs/README_ca.md).
 <br><br>
 
 ## 👨‍🎓 About me
