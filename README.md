@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src="IMG/banner.png" alt="Lau Adell" />
+  <img src="BANNERs/banner.png" alt="Lau Adell" />
 </p>
 
 # Hi there 👋 I'm Laura Adell Caballero (Darkus-18)
