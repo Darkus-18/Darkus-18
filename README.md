@@ -27,9 +27,9 @@
 
 ## 📊 Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Darkus-18&show_icons=true&theme=merko"><br>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Darkus-18&theme=merko&hide_border=false"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkus-18&layout=compact&theme=merko">
+  <img src="https://github-readme-stats.vercel.app/api?username=Darkus-18&theme=gotham&show_icons=true&hide_border=true&count_private=false"><br>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Darkus-18&theme=gotham&hide_border=true"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darkus-18&layout=compact&theme=gotham&hide_border=true">
 </p>
 
 ---
