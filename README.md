@@ -9,13 +9,26 @@
 
 ## 👨‍🎓 About me
 
-
+🎓 **Computer Science & Engineering student** at **UPC FIB**. *(graduating on Fall 2026)*
 
 ---
 
+## 🔊​ Languages
+
+**Spanish:** Native<br>
+**Catalan:** Native<br>
+**English:** C2
+
 ## 🛠️ Skills
 
-
+**Database:**<br>
+SQL *(Postgre / Oracle)*, MongoDB<br><br>
+**Front-end technology:**<br>
+HTML, CSS, Javascript<br><br>
+**Developement languages:**<br>
+C, C++, Java, PHP, Python<br><br>
+**Tools & Frameworks:**<br>
+Git *(Github / Gitlab)*, Visual Studio Code, AWS, Trello, Excel<br><br>
 
 ---
 
