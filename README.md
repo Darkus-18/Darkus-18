@@ -22,7 +22,7 @@
 ## 🛠️ Skills
 
 **Database:**<br>
-SQL *(Postgre / Oracle)*, MongoDB<br><br>
+SQL *(PostgreSQL / Oracle)*, MongoDB<br><br>
 **Front-end technology:**<br>
 HTML, CSS, Javascript<br><br>
 **Developement languages:**<br>
