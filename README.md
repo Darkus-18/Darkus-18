@@ -28,7 +28,7 @@ HTML, CSS, Javascript<br><br>
 **Developement languages:**<br>
 C, C++, Java, PHP, Python<br><br>
 **Tools & Frameworks:**<br>
-Git *(Github / Gitlab)*, Visual Studio Code, AWS, Trello, Excel<br><br>
+Git *(Github / Gitlab)*, Visual Studio Code, AWS, InsightMaker, Trello, Excel<br><br>
 
 ---
 
